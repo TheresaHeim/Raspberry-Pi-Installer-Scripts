@@ -6,7 +6,7 @@
 # chmod +x libgpiod.sh
 # ./libgpiod.sh
 
-is_legacy=0
+is_legacy=1
 
 # Loop through arguments and process them
 for arg in "$@"
